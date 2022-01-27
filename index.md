@@ -1,6 +1,6 @@
-## Hyvä kampanja on lähtöisin sekä ihmisistä että tahdosta vaikuttaa
+## Lähtöisin sekä ihmisistä että tahdosta vaikuttaa
 
-Hyvä yhteiskunnallisen vaikuttamisen perusta rakennetaan yhdessä alusta alkaen. Uskon ihmisten osallisuuteen.
+Hyvän yhteiskunnallisen vaikuttamisen perusta rakennetaan yhdessä alusta alkaen. Uskon ihmisten osallisuuteen.
 – Samuel Sylf
 
 Tässä asioita, joiden kautta me voimme ponnistaa eduskuntavaalien 2023 kampanjan aikana. Kutsun teidät [tekemään.](https://forms.gle/1zbDPFrNhu2qC7gd8) Muutosvoima on yhdessä tekemistä. Kärkiteemana kannattava suunta elämälle. 
