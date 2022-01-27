@@ -28,8 +28,10 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Tehdään yhdessä; yksi pääteema
 
+Tehdään kunnianpalautus työlle. Vielä tekemättömät toimet, joilla saadaan kannustusloukut pois mm. opiskelijoilta, yrittelijäältä toiminnalta, ja piensijoittajilta. 
+Vuonna 2021 piensijoittaminen löi itsensä läpi valtakunnallisesti. Suomen työllisyys kasvoi enemmän kuin koskaan aikaisemmin. Voimme olla tyytyväisiä ahkeruuden ilosanoman tuomasta voimasta, mutta se on vasta alkua, sillä rakenteellinen työttömyys on yhä 6-7%. 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/samuelsylf/sylf.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
