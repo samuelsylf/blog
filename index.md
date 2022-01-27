@@ -34,3 +34,4 @@ Tehdään kunnianpalautus työlle. Vielä tekemättömät toimet, joilla saadaan
 Vuonna 2021 piensijoittaminen löi itsensä läpi valtakunnallisesti. Suomen työllisyys kasvoi enemmän kuin koskaan aikaisemmin. Voimme olla tyytyväisiä ahkeruuden ilosanoman tuomaan voimaan, mutta tämä on vasta alkua. Rakenteellinen työttömyys on yhä 6-7%. Velkaa on pienenettävä kun korot nousevat.
 
 ### Ajantasalla pysyminen ei tee muutosta, vaan viisi harppausta edellä. WA-ryhmät ja sosiaaliset kanavat ovat toinen toisiamme varten. Ollaan yhteyksissä. 
+Yhteiskunta ei ole yksityinen projekti. Parempi huominen tehdään yhdessä. Valinnoista jotka tekevät meistä muutoksen.
