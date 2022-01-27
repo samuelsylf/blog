@@ -1,28 +1,31 @@
 ## Hyvä kampanja on lähtöisin ihmisistä
 
-Hyvä yhteiskunnallisen vaikuttamisen perusta rakennetaan yhdessä alusta alkaen. Uskon ihmisten osallisuuteen. – Samuel Sylf
-Tässä tärkeimmät asiat, joiden kautta me voimme ponnistaa eduskuntavaalien 2023 kampanjan aikana.
+Hyvä yhteiskunnallisen vaikuttamisen perusta rakennetaan yhdessä alusta alkaen. Uskon ihmisten osallisuuteen.
+– Samuel Sylf
+Tässä asioita, joiden kautta me voimme ponnistaa eduskuntavaalien 2023 kampanjan aikana. Kutsun teidät [tekemään.](https://forms.gle/1zbDPFrNhu2qC7gd8)
 
 You can use the [editor on GitHub](https://github.com/samuelsylf/sylf.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Kannustinloukut pois
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Meidän on tehtävä ahkeruudesta kannattavampaa, vastuullisuudesta tuottoisaa, yhteisöllisyydestä kannustavaa.
 
 ```markdown
-Syntax highlighted code block
+Suomen taloudellinen tilanne vaikuttaa kaikkiin; perheisiin, nuoriin, kokeneisiin ikäihmisiin.
 
-# Header 1
-## Header 2
-### Header 3
+# Suhdannetasoitettu talousalijäämä on ollut pakkaspuolella yli kymmenen vuoden ajan
+## Ja ylijäämän kasvattaminen on osoittautunut vaikeaksi.
+### Seuraavan kahden eduskuntakauden aikana, hallitus joutuu kiristämään _jotain_
 
-- Bulleted
-- List
+- Meidän on tehtävä fiksut ratkaisut hyvinvoivan huomisen vuoksi. 
 
-1. Numbered
-2. List
+Minä haluan mielummin...
+1. **purkaa kannatusloukkuja
+2. **parantaa työn teon houkuttelevuutta**
+3. **mahdollistaa opiskelu ja työnteko**
+...kuin kiristää veroja. 
 
 **Bold** and _Italic_ and `Code` text
 
