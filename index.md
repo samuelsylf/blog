@@ -1,4 +1,4 @@
-## Lähtöisin sekä ihmisistä että tahdosta vaikuttaa
+## Lähtöisin sekä ihmisistä että tahdosta tehdä enemmän
 
 Hyvän yhteiskunnallisen vaikuttamisen perusta rakennetaan yhdessä alusta alkaen. Uskon ihmisten osallisuuteen.
 – Samuel Sylf
