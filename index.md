@@ -24,8 +24,6 @@ Minä haluan mielummin...
 2. **parantaa työn teon houkuttelevuutta**
 3. **mahdollistaa opiskelu ja työnteko**
 ...kuin kiristää veroja. 
-
-[Link](url) and ![Image](src)
 ```
 
 Ilmoittaudu mukaan tekemään eduskuntavaalikampanja, [Samuel Sylf:n matkassa](https://forms.gle/1zbDPFrNhu2qC7gd8).
