@@ -1,12 +1,10 @@
-## Hyvä kampanja on lähtöisin ihmisistä
+## Hyvä kampanja on lähtöisin sekä ihmisistä että heidän tahdosta vaikuttaa
 
 Hyvä yhteiskunnallisen vaikuttamisen perusta rakennetaan yhdessä alusta alkaen. Uskon ihmisten osallisuuteen.
 – Samuel Sylf
+
 Tässä asioita, joiden kautta me voimme ponnistaa eduskuntavaalien 2023 kampanjan aikana. Kutsun teidät [tekemään.](https://forms.gle/1zbDPFrNhu2qC7gd8)
 
-You can use the [editor on GitHub](https://github.com/samuelsylf/sylf.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Kannustinloukut pois
 
@@ -22,24 +20,22 @@ Suomen taloudellinen tilanne vaikuttaa kaikkiin; perheisiin, nuoriin, kokeneisii
 - Meidän on tehtävä fiksut ratkaisut hyvinvoivan huomisen vuoksi. 
 
 Minä haluan mielummin...
-1. **purkaa kannatusloukkuja
+1. **purkaa kannatusloukkuja**
 2. **parantaa työn teon houkuttelevuutta**
 3. **mahdollistaa opiskelu ja työnteko**
 ...kuin kiristää veroja. 
 
-**Bold** and _Italic_ and `Code` text
-
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Ilmoittaudu mukaan tekemään eduskuntavaalikampanja, [Samuel Sylf:n matkassa] (https://forms.gle/1zbDPFrNhu2qC7gd8).
 
 ### Tehdään yhdessä; yksi pääteema
 
 Tehdään kunnianpalautus työlle. Vielä tekemättömät toimet, joilla saadaan kannustusloukut pois mm. opiskelijoilta, yrittelijäältä toiminnalta, ja piensijoittajilta. 
-Vuonna 2021 piensijoittaminen löi itsensä läpi valtakunnallisesti. Suomen työllisyys kasvoi enemmän kuin koskaan aikaisemmin. Voimme olla tyytyväisiä ahkeruuden ilosanoman tuomasta voimasta, mutta se on vasta alkua, sillä rakenteellinen työttömyys on yhä 6-7%. 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/samuelsylf/sylf.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Vuonna 2021 piensijoittaminen löi itsensä läpi valtakunnallisesti. Suomen työllisyys kasvoi enemmän kuin koskaan aikaisemmin. Voimme olla tyytyväisiä ahkeruuden ilosanoman tuomaan voimaan, mutta tämä on vasta alkua. Rakenteellinen työttömyys on yhä 6-7%. Velkaa on pienenettävä kun korot nousevat.
 
-### Support or Contact
+### Ajantasalla pysyminen ei tee muutosta, vaan viisi harppausta edellä. WA-ryhmät ja sosiaaliset kanavat ovat toinen toisiamme varten. Ollaan yhteyksissä. 
 
+**Bold** and _Italic_ and `Code` text
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
