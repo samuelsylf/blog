@@ -35,3 +35,5 @@ Vuonna 2021 piensijoittaminen löi itsensä läpi valtakunnallisesti. Suomen ty�
 
 ### Ajantasalla pysyminen ei tee muutosta, vaan viisi harppausta edellä. WA-ryhmät ja sosiaaliset kanavat ovat toinen toisiamme varten. Ollaan yhteyksissä. 
 Yhteiskunta ei ole yksityinen projekti. Parempi huominen tehdään yhdessä. Valinnoista jotka tekevät meistä muutoksen.
+Rakentavin terveisin,
+- Samuel Sylf
